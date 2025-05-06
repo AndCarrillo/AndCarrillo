@@ -27,6 +27,7 @@
 
 <p align="center">
   <!-- Lenguajes más usados -->
+  <a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#top-languages-card">
   <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs?username=andcarrillo&show_icons=true&locale=en&hide_title=true&layout=compact&theme=algolia&bg_color=30,bb005d88,bb005d22,00000000" alt="Top Languages" />
   </p>
 
