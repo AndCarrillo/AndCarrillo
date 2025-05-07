@@ -41,12 +41,10 @@ Hi there! 👋 I'm Andrea Carrillo, a curious and motivated Information Systems 
 I love building things with code — from data dashboards and backend scripts to cloud-powered apps.  
 Right now, I’m deepening my skills in Python, .NET, Power BI, and scientific computing, always looking for ways to turn ideas into real solutions.
 
-🔭 I’m currently working on: Data-driven apps and cloud automation  
-🌱 I’m learning: AI/ML, scientific computing, and cloud certifications
-💬 Ask me about: Python, SQL, Power BI, or backend development  
-📫 How to reach me:
-<p align="left"> 
-<a href="https://www.linkedin.com/in/andrea-carrillo-vlk/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="mylinkedin"/></a> 
+- 🔭 I’m currently working on: Data-driven apps and cloud automation
+- 🌱 I’m learning: AI/ML, scientific computing, and cloud certification
+- 💬 Ask me about: Python, SQL, Power BI, or backend development  
+- 📫 How to reach me:<p align="center"> <a href="https://www.linkedin.com/in/andrea-carrillo-vlk/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="mylinkedin"/></a> 
 
 <table  align="center" width="120%">
   <tr>
