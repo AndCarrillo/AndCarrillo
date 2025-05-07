@@ -14,8 +14,9 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AndCarrillo/AndCarrillo/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AndCarrillo/AndCarrillo/output/pacman-contribution-graph.svg">
 </picture>
-_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
-
+<p align="left">
+  <a href="https://github.com/abozanona/abozanona" target="_blank">generado con abozanona/snk</a>
+</p>
 
 <!-- Snake animation generated using Platane/snk 
 <p align="center">
