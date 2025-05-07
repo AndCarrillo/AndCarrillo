@@ -27,28 +27,40 @@
 ---
 
 <!-- Contador de vistas -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andcarrillo&label=Profile%20views&color=0e75b6&style=flat" alt="andcarrillo" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/AndCarrillo)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=andcarrillo&label=Profile%20views&color=0e75b6&style=flat" alt="andcarrillo" /> 
+  
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-carrillo-vlk/)
+</p>
 
----
 
 <h3>💻 Languages and Tools</h3>
-<h4>🧠 Programming Languages</h4>
 <table align="center">
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="32" alt="HTML5"><br><sub>HTML5</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="32" alt="CSS3"><br><sub>CSS3</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="32" alt="Java"><br><sub>Java</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="32" alt="JavaScript"><br><sub>JavaScript</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32" alt="Python"><br><sub>Python</sub></td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="32" alt="Kotlin"><br><sub>Kotlin</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="32" alt="C++"><br><sub>C++</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="32" alt="C#"><br><sub>C#</sub></td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/VB.NET_Logo.svg" width="32" alt="VB.NET"><br><sub>VB.NET</sub></td>
+    <!-- Frontend -->
+    <td valign="top">
+      <h4 align="center">🎨 Frontend</h4>
+      <table>
+        <tr>
+          <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="32" alt="HTML5"><br><sub>HTML5</sub></td>
+          <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="32" alt="CSS3"><br><sub>CSS3</sub></td>
+          <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="32" alt="JavaScript"><br><sub>JavaScript</sub></td>
+        </tr>
+      </table>
+    </td>
+    <!-- Backend -->
+    <td valign="top">
+      <h4 align="center">🛠️ Backend</h4>
+      <table>
+        <tr>
+          <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="32" alt="Java"><br><sub>Java</sub></td>
+          <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32" alt="Python"><br><sub>Python</sub></td>
+          <td align="center"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="32" alt="Kotlin"><br><sub>Kotlin</sub></td>
+          <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="32" alt="C++"><br><sub>C++</sub></td>
+          <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="32" alt="C#"><br><sub>C#</sub></td>
+          <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/VB.NET_Logo.svg" width="32" alt="VB.NET"><br><sub>VB.NET</sub></td>
+        </tr>
+      </table>
+    </td>
   </tr>
 </table>
 
@@ -82,22 +94,45 @@
   </tr>
 </table>
 
-
-<h4>⚙️ Development Tools</h4>
 <table align="center">
   <tr>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="32" alt="Git"><br><sub>Git</sub></td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="32" alt="Postman"><br><sub>Postman</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="32" alt="Selenium"><br><sub>Selenium</sub></td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="32" alt="Heroku"><br><sub>Heroku</sub></td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="32" alt="Figma"><br><sub>Figma</sub></td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="32" alt="Firebase"><br><sub>Firebase</sub></td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="32" alt="Azure"><br><sub>Azure</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="32" alt="Node.js"><br><sub>Node.js</sub></td>
-    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="32" alt="Arduino"><br><sub>Arduino</sub></td>
-    <td align="center"><img src="https://assets-global.website-files.com/6113b72e6b12194c2b9a7af3/641c46028d3011cc9f69e68e_flutterflow-logo.png" width="32" alt="FlutterFlow"><br><sub>FlutterFlow</sub></td>
+    <!-- Herramientas de desarrollo -->
+    <td valign="top">
+      <h4 align="center">⚙️ Development Tools</h4>
+      <table>
+        <tr>
+          <td align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="32" alt="Git"><br><sub>Git</sub></td>
+          <td align="center"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="32" alt="Postman"><br><sub>Postman</sub></td>
+          <td align="center"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="32" alt="Selenium"><br><sub>Selenium</sub></td>
+          <td align="center"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="32" alt="Heroku"><br><sub>Heroku</sub></td>
+        </tr>
+      </table>
+    </td>
+    <!-- Plataformas y UI/UX -->
+    <td valign="top">
+      <h4 align="center">☁️ Plataformas y UI</h4>
+      <table>
+        <tr>
+          <td align="center"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="32" alt="Figma"><br><sub>Figma</sub></td>
+          <td align="center"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="32" alt="Firebase"><br><sub>Firebase</sub></td>
+          <td align="center"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="32" alt="Azure"><br><sub>Azure</sub></td>
+        </tr>
+      </table>
+    </td>
+    <!-- Runtimes y no-code -->
+    <td valign="top">
+      <h4 align="center">🔧 Runtimes / No-Code</h4>
+      <table>
+        <tr>
+          <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="32" alt="Node.js"><br><sub>Node.js</sub></td>
+          <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="32" alt="Arduino"><br><sub>Arduino</sub></td>
+          <td align="center"><img src="https://assets-global.website-files.com/6113b72e6b12194c2b9a7af3/641c46028d3011cc9f69e68e_flutterflow-logo.png" width="32" alt="FlutterFlow"><br><sub>FlutterFlow</sub></td>
+        </tr>
+      </table>
+    </td>
   </tr>
 </table>
+
 
 <p align="center">
   <!-- Lenguajes más usados -->
