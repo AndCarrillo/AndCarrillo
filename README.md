@@ -46,7 +46,7 @@ Right now, I’m deepening my skills in Python, .NET, Power BI, and scientific c
 💬 Ask me about: Python, SQL, Power BI, or backend development  
 📫 How to reach me:
 <p align="left"> 
-<a href="https://www.linkedin.com/in/andrea-carrillo/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="mylinkedin"/></a> 
+<a href="https://www.linkedin.com/in/andrea-carrillo-vlk/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="mylinkedin"/></a> 
 
 <table  align="center" width="120%">
   <tr>
