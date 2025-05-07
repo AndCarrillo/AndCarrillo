@@ -18,7 +18,7 @@
   <a href="https://github.com/abozanona/abozanona" target="_blank">generado con abozanona/snk</a>
 </p>
 
-<!-- Snake animation generated using Platane/snk -->
+<!-- Snake animation generated using Platane/snk 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AndCarrillo/snk/output/github-snake-dark.svg" />
@@ -29,8 +29,7 @@
 <p align="center">
   <a href="https://github.com/platane/snk?tab=readme-ov-file" target="_blank">Generado con Platane/snk</a>
 </p>
-
-
+-->
 
 ---
 
@@ -39,76 +38,6 @@
   
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-carrillo-vlk/)
 </p>
-
-<h3>🧰 Languages and Tools</h3>
-
-<table width="100%">
-  <tr>
-    <td valign="top" width="25%">
-      <h4 align="center">Frontend</h4>
-      <p align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/><br>HTML5<br>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/><br>CSS3<br>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/><br>JavaScript
-      </p>
-    </td>
-    <td valign="top" width="25%">
-      <h4 align="center">Backend</h4>
-      <p align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/><br>Java<br>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/><br>Python<br>
-        <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40"/><br>Kotlin<br>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/><br>C++<br>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/><br>C#<br>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/VB.NET_Logo.svg" width="40"/><br>VB.NET
-      </p>
-    </td>
-    <td valign="top" width="25%">
-      <h4 align="center">DBMS</h4>
-      <p align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/><br>MySQL<br>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/><br>PostgreSQL<br>
-        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40"/><br>SQL Server<br>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40"/><br>Oracle
-      </p>
-    </td>
-    <td valign="top" width="25%">
-      <h4 align="center">Frameworks</h4>
-      <p align="center">
-        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/><br>Django<br>
-        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"/><br>Spring<br>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40"/><br>.NET
-      </p>
-    </td>
-    <td valign="top" width="25%">
-      <h4 align="center">Dev Tools</h4>
-      <p align="center">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/><br>Git<br>
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/><br>Postman<br>
-        <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="40"/><br>Selenium<br>
-        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="40"/><br>Heroku
-      </p>
-    </td>
-    <td valign="top" width="25%">
-      <h4 align="center">Platforms / UI</h4>
-      <p align="center">
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/><br>Figma<br>
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/><br>Firebase<br>
-        <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40"/><br>Azure
-      </p>
-    </td>
-    <td valign="top" width="25%">
-      <h4 align="center">Runtimes / No-Code</h4>
-      <p align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/><br>Node.js<br>
-        <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/><br>Arduino<br>
-        <img src="https://assets-global.website-files.com/6113b72e6b12194c2b9a7af3/641c46028d3011cc9f69e68e_flutterflow-logo.png" width="40"/><br>FlutterFlow
-      </p>
-  </tr>
-</table>
-
-
-
 
 <h3>💻 Languages and Tools</h3>
 <table align="center">
