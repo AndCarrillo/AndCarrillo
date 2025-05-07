@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Tagesschrift&pause=1000&color=BB005D&background=01000600&center=true&vCenter=true&repeat=false&width=435&lines=My+name+is+Andrea+Carrillo" alt="Typing SVG" />
 <!-- Subtítulo con breve descripción personal -->
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Tagesschrift&pause=1000&color=BB005D&background=01000600&center=true&vCenter=true&width=435&lines=A+passionate+developer+from+Costa+Rica;Just+a+novice.+Still+got+a+lot+to+learn." alt="Typing SVG" />
+    <img <img src="https://readme-typing-svg.demolab.com?font=Tagesschrift&pause=1000&color=BB005D&background=01000600&center=true&vCenter=true&width=435&lines=Passionate+about+Data+and+Software+Development;Always+learning+and+building+new+projects." alt="Typing SVG" />
   </a>
 </p>
 </div>
@@ -36,6 +36,16 @@
 <!-- Contador de vistas -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andcarrillo&label=Profile%20views&color=0e75b6&style=flat" alt="andcarrillo" /> 
   
+
+Hi there! 👋 I'm Andrea Carrillo, a curious and motivated Information Systems Engineering student.  
+I love building things with code — from data dashboards and backend scripts to cloud-powered apps.  
+Right now, I’m deepening my skills in Python, .NET, Power BI, and scientific computing, always looking for ways to turn ideas into real solutions.
+
+🔭 I’m currently working on: Data-driven apps and cloud automation  
+🌱 I’m learning: AI/ML, scientific computing, and cloud certifications
+💬 Ask me about: Python, SQL, Power BI, or backend development  
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/andrea-carrillo/)
+
 
 <h3>💻 Languages and Tools</h3>
 <table align="center">
@@ -83,7 +93,7 @@
     </td>
     <!-- Tabla de Frameworks -->
     <td valign="top">
-      <h4 align="center">🧱 Frameworks</h4>
+      <h4 align="center">🧱 Backend Frameworks</h4>
       <table>
         <tr>
           <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="32" alt="Django"><br><sub>Django</sub></td>
@@ -111,7 +121,7 @@
     </td>
     <!-- Plataformas y UI/UX -->
     <td valign="top">
-      <h4 align="center">☁️ Plataformas y UI</h4>
+      <h4 align="center">🎨 UI Design & Cloud Platforms</h4>
       <table>
         <tr>
           <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="32" alt="Figma"><br><sub>Figma</sub></td>
@@ -122,7 +132,7 @@
     </td>
     <!-- Runtimes y no-code -->
     <td valign="top">
-      <h4 align="center">🔧 Runtimes / No-Code</h4>
+      <h4 align="center">⚙️ Runtime Environments & No-Code</h4>
       <table>
         <tr>
           <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="32" alt="Node.js"><br><sub>Node.js</sub></td>
@@ -163,4 +173,10 @@
       <img src="https://github-profile-trophy.vercel.app/?username=andcarrillo&theme=algolia&margin-w=5&rank=SECRET,S,A,B" alt="GitHub Trophies" />
     </a>
   </p>
+
+## 🚀 Highlight Projects
+
+- 🐶 **Digital Pet Record** – Health & care manager for pets using React and Firebase
+- 🛠 **SharePoint Automation** – Extracted permissions and structure using PowerShell
+- 📊 **Dashboard ETL Pipelines** – Data extraction and transformation with Python + Power BI
 
