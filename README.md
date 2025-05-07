@@ -18,7 +18,7 @@
   <a href="https://github.com/abozanona/abozanona" target="_blank">generado con abozanona/snk</a>
 </p>
 
-<!-- Snake animation generated using Platane/snk 
+<!-- Snake animation generated using Platane/snk -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AndCarrillo/snk/output/github-snake-dark.svg" />
@@ -29,7 +29,7 @@
 <p align="center">
   <a href="https://github.com/platane/snk?tab=readme-ov-file" target="_blank">Generado con Platane/snk</a>
 </p>
--->
+
 
 
 ---
