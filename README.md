@@ -9,6 +9,21 @@
 </p>
 </div>
 
+
+<!-- Snake animation generated using Platane/snk 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AndCarrillo/snk/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AndCarrillo/snk/output/github-snake.svg" />
+    <img alt="GitHub Snake animation" src="https://raw.githubusercontent.com/AndCarrillo/snk/output/github-snake.svg" style="max-width: 100%;" />
+  </picture>
+</p>
+<p align="center">
+  <a href="https://github.com/platane/snk?tab=readme-ov-file" target="_blank">Generado con Platane/snk</a>
+</p>
+-->
+
+
 ---
 
 <!-- Contador de vistas -->
@@ -21,198 +36,74 @@
 
 ---
 
-### 💻 Languages and Tools
-
-#### 🧠 Lenguajes de Programación
-
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="32"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="32"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32"/> | <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="32"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="32"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="32"/> |
-| :------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: |
-|                                                      Java                                                      |                                                         JavaScript                                                         |                                                       Python                                                       |                                          Kotlin                                          |                                                            C++                                                           |                                                         C#                                                         |
-
----
-
-#### 🧰 Frameworks y Librerías
-
-| <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="32"/> | <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="32"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="32"/> |
-| :----------------------------------------------------------------------: | :----------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: |
-|                                  Django                                  |                                        Spring                                        |                                                              .NET                                                             |
-
----
-
-#### 🎨 Frontend / UI
-
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="32"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="32"/> | <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="32"/> |
-| :-----------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------: |
-|                                                           HTML5                                                           |                                                           CSS3                                                          |                                      Figma                                     |
-
----
-
-#### 🗄️ Bases de Datos
-
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="32"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="32"/> | <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="32"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="32"/> |
-| :-----------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: |
-|                                                           MySQL                                                           |                                                              PostgreSQL                                                             |                                         SQL Server                                        |                                                       Oracle                                                       |
-
----
-
-#### ⚙️ Herramientas y Plataformas
-
-| <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="32"/> | <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="32"/> | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="32"/> | <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="32"/> |
-| :--------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------: |
-|                                         Git                                        |                                      Heroku                                      |                                          Postman                                         |                                                                  Selenium                                                                 |
-
-| <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="32"/> | <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="32"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="32"/> | <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="32"/> |
-| :----------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------: |
-|                                       Firebase                                       |                                                Azure                                               |                                                           Node.js                                                           |                                   Arduino                                   |
-
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="32"/> |
-| :---------------------------------------------------------------------------------------------------------------------------: |
-|                                                            Android                                                            |
-
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<h3 align="left">Languages and Tools:</h3>
+<h3>💻 Languages and Tools</h3>
+<h4>🧠 Programming Languages</h4>
 <table align="center">
   <tr>
-    <td style="padding:10px;">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" style="background:white; border-radius:12px; padding:10px; box-shadow:0 0 5px rgba(0,0,0,0.1);" /> </a>
-         </td>
-    <td style="padding:10px;">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" style="background:white; border-radius:12px; padding:10px; box-shadow:0 0 5px rgba(0,0,0,0.1);" /> </a>
-         </td>
-    <td style="padding:10px;">
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" style="background:white; border-radius:12px; padding:10px; box-shadow:0 0 5px rgba(0,0,0,0.1);" /> </a>
-         </td>
-    <td style="padding:10px;">
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="background:white; border-radius:12px; padding:10px; box-shadow:0 0 5px rgba(0,0,0,0.1);" /> </a>
-         </td>
-    <td style="padding:10px;">
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" style="background:white; border-radius:12px; padding:10px; box-shadow:0 0 5px rgba(0,0,0,0.1);" /> </a>
-         </td>
-    <td style="padding:10px;">
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="background:white; border-radius:12px; padding:10px; box-shadow:0 0 5px rgba(0,0,0,0.1);" /> </a>
-         </td>
-    <td style="padding:10px;">
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" style="background:white; border-radius:12px; padding:10px; box-shadow:0 0 5px rgba(0,0,0,0.1);" /> </a>
-         </td>
-    <td style="padding:10px;">
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" style="background:white; border-radius:12px; padding:10px; box-shadow:0 0 5px rgba(0,0,0,0.1);" /> </a>
-         </td>
-    <td style="padding:10px;">
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" style="background:white; border-radius:12px; padding:10px; box-shadow:0 0 5px rgba(0,0,0,0.1);" /> </a>
-         </td>
-    <td style="padding:10px;">
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" style="background:white; border-radius:12px; padding:10px; box-shadow:0 0 5px rgba(0,0,0,0.1);" /> </a>
-         </td>
-    <td style="padding:10px;">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="background:white; border-radius:12px; padding:10px; box-shadow:0 0 5px rgba(0,0,0,0.1);" /> </a>
-         </td>
-    <td style="padding:10px;">
-  <a href="https://heroku.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" style="background:white; border-radius:12px; padding:10px; box-shadow:0 0 5px rgba(0,0,0,0.1);" /> </a>
-         </td>
-    <td style="padding:10px;">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="background:white; border-radius:12px; padding:10px; box-shadow:0 0 5px rgba(0,0,0,0.1);" /> </a>
-         </td>
-     </tr>
-     <tr>
-    <td style="padding:10px;">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="background:white; border-radius:12px; padding:10px; box-shadow:0 0 5px rgba(0,0,0,0.1);" /> </a>
-         </td>
-    <td style="padding:10px;">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="background:white; border-radius:12px; padding:10px; box-shadow:0 0 5px rgba(0,0,0,0.1);" /> </a>
-         </td>
-    <td style="padding:10px;">
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" style="background:white; border-radius:12px; padding:10px; box-shadow:0 0 5px rgba(0,0,0,0.1);" /> </a>
-         </td>
-    <td style="padding:10px;">
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-      <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" style="background:white; border-radius:12px; padding:10px; box-shadow:0 0 5px rgba(0,0,0,0.1);" /> </a>
-         </td>
-    <td style="padding:10px;">
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="background:white; border-radius:12px; padding:10px; box-shadow:0 0 5px rgba(0,0,0,0.1);" /></a>
-         </td>
-    <td style="padding:10px;">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="background:white; border-radius:12px; padding:10px; box-shadow:0 0 5px rgba(0,0,0,0.1);" /> </a>
-         </td>
-    <td style="padding:10px;">
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" style="background:white; border-radius:12px; padding:10px; box-shadow:0 0 5px rgba(0,0,0,0.1);" /> </a>
-         </td>
-    <td style="padding:10px;">
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" style="background:white; border-radius:12px; padding:10px; box-shadow:0 0 5px rgba(0,0,0,0.1);" /> </a>
-         </td>
-    <td style="padding:10px;">
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" style="background:white; border-radius:12px; padding:10px; box-shadow:0 0 5px rgba(0,0,0,0.1);" /> </a>
-         </td>
-    <td style="padding:10px;">
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" style="background:white; border-radius:12px; padding:10px; box-shadow:0 0 5px rgba(0,0,0,0.1);" /></a>
-         </td>
-    <td style="padding:10px;">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="background:white; border-radius:12px; padding:10px; box-shadow:0 0 5px rgba(0,0,0,0.1);" /></a>
-         </td>
-    <td style="padding:10px;">
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40" style="background:white; border-radius:12px; padding:10px; box-shadow:0 0 5px rgba(0,0,0,0.1);" /></a>
-         </td>
-    <td style="padding:10px;">
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" style="background:white; border-radius:12px; padding:10px; box-shadow:0 0 5px rgba(0,0,0,0.1);" /></a> 
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="32" alt="HTML5"><br><sub>HTML5</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="32" alt="CSS3"><br><sub>CSS3</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="32" alt="Java"><br><sub>Java</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="32" alt="JavaScript"><br><sub>JavaScript</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32" alt="Python"><br><sub>Python</sub></td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="32" alt="Kotlin"><br><sub>Kotlin</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="32" alt="C++"><br><sub>C++</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="32" alt="C#"><br><sub>C#</sub></td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/VB.NET_Logo.svg" width="32" alt="VB.NET"><br><sub>VB.NET</sub></td>
+  </tr>
+</table>
+
+
+
+<table align="center">
+  <tr>
+    <!-- Tabla de DBMS -->
+    <td valign="top">
+      <h4 align="left">🗄️ Database Management Systems (DBMS)</h4>
+      <table>
+        <tr>
+          <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="32" alt="MySQL"><br><sub>MySQL</sub></td>
+          <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="32" alt="PostgreSQL"><br><sub>PostgreSQL</sub></td>
+          <td align="center"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="32" alt="SQL Server"><br><sub>SQL Server</sub></td>
+          <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="32" alt="Oracle"><br><sub>Oracle</sub></td>
+        </tr>
+      </table>
+    </td>
+    <!-- Tabla de Frameworks -->
+    <td valign="top">
+      <h4 align="center">🧱 Frameworks</h4>
+      <table>
+        <tr>
+          <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="32" alt="Django"><br><sub>Django</sub></td>
+          <td align="center"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="32" alt="Spring"><br><sub>Spring</sub></td>
+          <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="32" alt=".NET"><br><sub>.NET</sub></td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
 
 
+<h4>⚙️ Development Tools</h4>
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="32" alt="Git"><br><sub>Git</sub></td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="32" alt="Postman"><br><sub>Postman</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="32" alt="Selenium"><br><sub>Selenium</sub></td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="32" alt="Heroku"><br><sub>Heroku</sub></td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="32" alt="Figma"><br><sub>Figma</sub></td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="32" alt="Firebase"><br><sub>Firebase</sub></td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="32" alt="Azure"><br><sub>Azure</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="32" alt="Node.js"><br><sub>Node.js</sub></td>
+    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="32" alt="Arduino"><br><sub>Arduino</sub></td>
+    <td align="center"><img src="https://assets-global.website-files.com/6113b72e6b12194c2b9a7af3/641c46028d3011cc9f69e68e_flutterflow-logo.png" width="32" alt="FlutterFlow"><br><sub>FlutterFlow</sub></td>
+  </tr>
+</table>
 
 <p align="center">
   <!-- Lenguajes más usados -->
   <a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#top-languages-card">
   <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs?username=andcarrillo&show_icons=true&locale=en&hide_title=true&layout=compact&theme=algolia&bg_color=30,bb005d88,bb005d22,00000000" alt="Top Languages" />
   </p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
-<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> 
-<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> 
-<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
-<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-</p>
 
 <!-- Sección de Estadísticas GitHub -->
 <details>
