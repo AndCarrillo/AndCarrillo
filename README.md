@@ -36,8 +36,6 @@
 <!-- Contador de vistas -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andcarrillo&label=Profile%20views&color=0e75b6&style=flat" alt="andcarrillo" /> 
   
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-carrillo-vlk/)
-</p>
 
 <h3>💻 Languages and Tools</h3>
 <table align="center">
@@ -60,7 +58,6 @@
         <tr>
           <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="32" alt="Java"><br><sub>Java</sub></td>
           <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32" alt="Python"><br><sub>Python</sub></td>
-          <td align="center"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="32" alt="Kotlin"><br><sub>Kotlin</sub></td>
           <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="32" alt="C++"><br><sub>C++</sub></td>
           <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="32" alt="C#"><br><sub>C#</sub></td>
           <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/VB.NET_Logo.svg" width="32" alt="VB.NET"><br><sub>VB.NET</sub></td>
@@ -77,10 +74,10 @@
       <h4 align="left">🗄️ Database Management Systems (DBMS)</h4>
       <table>
         <tr>
-          <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="32" alt="MySQL"><br><sub>MySQL</sub></td>
-          <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="32" alt="PostgreSQL"><br><sub>PostgreSQL</sub></td>
-          <td align="center"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="32" alt="SQL Server"><br><sub>SQL Server</sub></td>
-          <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="32" alt="Oracle"><br><sub>Oracle</sub></td>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="32" alt="MySQL"><br><sub>MySQL</sub></td>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="32" alt="PostgreSQL"><br><sub>PostgreSQL</sub></td>
+          <td align="center"><img src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png" width="32" alt="SQL Server"><br><sub>SQL Server</sub></td>
+          <td align="center"><img src="https://avatars.githubusercontent.com/u/4430336?s=200&v=4" width="32" alt="Oracle"><br><sub>Oracle</sub></td>
         </tr>
       </table>
     </td>
@@ -107,7 +104,7 @@
         <tr>
           <td align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="32" alt="Git"><br><sub>Git</sub></td>
           <td align="center"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="32" alt="Postman"><br><sub>Postman</sub></td>
-          <td align="center"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="32" alt="Selenium"><br><sub>Selenium</sub></td>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="32" alt="Selenium"><br><sub>Selenium</sub></td>
           <td align="center"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="32" alt="Heroku"><br><sub>Heroku</sub></td>
         </tr>
       </table>
@@ -117,9 +114,9 @@
       <h4 align="center">☁️ Plataformas y UI</h4>
       <table>
         <tr>
-          <td align="center"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="32" alt="Figma"><br><sub>Figma</sub></td>
-          <td align="center"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="32" alt="Firebase"><br><sub>Firebase</sub></td>
-          <td align="center"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="32" alt="Azure"><br><sub>Azure</sub></td>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="32" alt="Figma"><br><sub>Figma</sub></td>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="32" alt="Firebase"><br><sub>Firebase</sub></td>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="32" alt="Azure"><br><sub>Azure</sub></td>
         </tr>
       </table>
     </td>
@@ -128,9 +125,9 @@
       <h4 align="center">🔧 Runtimes / No-Code</h4>
       <table>
         <tr>
-          <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="32" alt="Node.js"><br><sub>Node.js</sub></td>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="32" alt="Node.js"><br><sub>Node.js</sub></td>
           <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="32" alt="Arduino"><br><sub>Arduino</sub></td>
-          <td align="center"><img src="https://assets-global.website-files.com/6113b72e6b12194c2b9a7af3/641c46028d3011cc9f69e68e_flutterflow-logo.png" width="32" alt="FlutterFlow"><br><sub>FlutterFlow</sub></td>
+          <td align="center"><img src="https://avatars.githubusercontent.com/u/74943865?s=200&v=4" width="32" alt="FlutterFlow"><br><sub>FlutterFlow</sub></td>
         </tr>
       </table>
     </td>
