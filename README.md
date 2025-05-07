@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Tagesschrift&pause=1000&color=BB005D&background=01000600&center=true&vCenter=true&repeat=false&width=435&lines=My+name+is+Andrea+Carrillo" alt="Typing SVG" />
 <!-- Subtítulo con breve descripción personal -->
 <p align="center">
-    <img <img src="https://readme-typing-svg.demolab.com?font=Tagesschrift&pause=1000&color=BB005D&background=01000600&center=true&vCenter=true&width=435&lines=Passionate+about+Data+and+Software+Development;Always+learning+and+building+new+projects." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Tagesschrift&pause=1000&color=BB005D&background=01000600&center=true&vCenter=true&repeat=false&width=700&lines=Passionate+about+Data+and+Software+Development;Always+learning+and+building+new+projects."alt="Typing SVG" />
   </a>
 </p>
 </div>
@@ -83,11 +83,11 @@ Right now, I’m deepening my skills in Python, .NET, Power BI, and scientific c
       <h4 align="center">🛠️ Backend</h4>
       <table>
         <tr>
-          <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="32" alt="Java"><br><sub>Java</sub></td>
-          <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32" alt="Python"><br><sub>Python</sub></td>
           <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="32" alt="C++"><br><sub>C++</sub></td>
           <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="32" alt="C#"><br><sub>C#</sub></td>
           <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/VB.NET_Logo.svg" width="32" alt="VB.NET"><br><sub>VB.NET</sub></td>
+          <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32" alt="Python"><br><sub>Python</sub></td>
+          <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="32" alt="Java"><br><sub>Java</sub></td>
         </tr>
       </table>
     </td>
@@ -127,6 +127,7 @@ Right now, I’m deepening my skills in Python, .NET, Power BI, and scientific c
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="32" alt="Pandas"><br><sub>Pandas</sub></td>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="32" alt="NumPy"><br><sub>NumPy</sub></td>
       <td align="center"><img src="https://avatars.githubusercontent.com/u/215947?s=200&v=4" width="32" alt="Matplotlib"><br><sub>Matplotlib</sub></td>
+      <td align="center"><img src="https://avatars.githubusercontent.com/u/288277?s=200&v=4" width="32" alt="SciPy"><br><sub>SciPy</sub></td>
       <td align="center"><img src="https://www.r-project.org/logo/Rlogo.svg" width="32" alt="R"><br><sub>R</sub></td>
     </tr>
   </table>
@@ -177,7 +178,7 @@ Right now, I’m deepening my skills in Python, .NET, Power BI, and scientific c
 <p align="center">
   <!-- Lenguajes más usados -->
   <a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#top-languages-card">
-  <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs?username=andcarrillo&show_icons=true&locale=en&hide_title=true&layout=compact&theme=algolia&bg_color=30,bb005d88,bb005d22,00000000" alt="Top Languages" />
+  <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs?username=andcarrillo&show_icons=true&locale=en&hide_title=true&layout=compact&theme=dracula" alt="Top Languages" />
   </p>
 
 <!-- Sección de Estadísticas GitHub -->
@@ -185,11 +186,11 @@ Right now, I’m deepening my skills in Python, .NET, Power BI, and scientific c
   <p align="center">
     <!-- Estadísticas generales -->
     <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-      <img height="150px" src="https://github-readme-stats.vercel.app/api?username=andcarrillo&show_icons=true&hide_title=true&locale=en&theme=algolia&bg_color=30,bb005d88,bb005d22,00000000" alt="GitHub Stats"/>
+      <img height="150px" src="https://github-readme-stats.vercel.app/api?username=andcarrillo&show_icons=true&hide_title=true&locale=en&theme=dracula" alt="GitHub Stats"/>
     </a>
     <!-- Racha de contribuciones -->
     <a href="https://git.io/streak-stats" target="_blank">
-      <img height="150px" src="https://streak-stats.demolab.com?user=andCarrillo&theme=algolia&border_radius=6&background=30,BB005D88,BB005D22,00000000&border=FFFFFF" alt="GitHub Streak" />
+      <img height="150px" src="https://streak-stats.demolab.com?user=andCarrillo&theme=dracula&border_radius=6&border=FFFFFF" alt="GitHub Streak" />
     </a>
   </p>
 
@@ -199,6 +200,6 @@ Right now, I’m deepening my skills in Python, .NET, Power BI, and scientific c
   <!-- Imagen de trofeos filtrada y centrada -->
   <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=andcarrillo&theme=algolia&margin-w=5&rank=SECRET,S,A,B" alt="GitHub Trophies" />
+      <img height="150px" src="https://github-profile-trophy.vercel.app/?username=andcarrillo&theme=algolia&margin-w=5&rank=SECRET,S,A,B" alt="GitHub Trophies" />
     </a>
   </p>
