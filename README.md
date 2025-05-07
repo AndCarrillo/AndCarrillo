@@ -44,7 +44,24 @@ Right now, I’m deepening my skills in Python, .NET, Power BI, and scientific c
 🔭 I’m currently working on: Data-driven apps and cloud automation  
 🌱 I’m learning: AI/ML, scientific computing, and cloud certifications
 💬 Ask me about: Python, SQL, Power BI, or backend development  
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/andrea-carrillo/)
+📫 How to reach me:
+<p align="left"> 
+<a href="https://www.linkedin.com/in/andrea-carrillo/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="mylinkedin"/></a> 
+
+<table  align="center" width="120%">
+  <tr>
+    <td valign="top" width="90%">
+      <h3>🚀 Highlight Projects</h3>
+
+- 🐶 **Digital Pet Record** – Health & care manager for pets using React and Firebase  
+- 🛠 **SharePoint Automation** – Extracted permissions and structure using PowerShell  
+- 📊 **Dashboard ETL Pipelines** – Data extraction and transformation with Python + Power BI  
+    </td>
+    <td valign="top" align="center" width="30%">
+      <img src="https://github.com/images/mona-whisper.gif" width="120" alt="Mona Whisper">
+    </td>
+  </tr>
+</table>
 
 
 <h3>💻 Languages and Tools</h3>
@@ -74,6 +91,17 @@ Right now, I’m deepening my skills in Python, .NET, Power BI, and scientific c
         </tr>
       </table>
     </td>
+    <!-- Tabla de Frameworks -->
+    <td valign="top">
+      <h4 align="center">🧱 Backend Frameworks</h4>
+      <table>
+        <tr>
+          <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="32" alt="Django"><br><sub>Django</sub></td>
+          <td align="center"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="32" alt="Spring"><br><sub>Spring</sub></td>
+          <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="32" alt=".NET"><br><sub>.NET</sub></td>
+        </tr>
+      </table>
+    </td>
   </tr>
 </table>
 
@@ -91,17 +119,18 @@ Right now, I’m deepening my skills in Python, .NET, Power BI, and scientific c
         </tr>
       </table>
     </td>
-    <!-- Tabla de Frameworks -->
-    <td valign="top">
-      <h4 align="center">🧱 Backend Frameworks</h4>
-      <table>
-        <tr>
-          <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="32" alt="Django"><br><sub>Django</sub></td>
-          <td align="center"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="32" alt="Spring"><br><sub>Spring</sub></td>
-          <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="32" alt=".NET"><br><sub>.NET</sub></td>
-        </tr>
-      </table>
-    </td>
+<!-- Scientific Libraries -->
+<td valign="top">
+  <h4 align="center">🧪 Scientific Libraries</h4>
+  <table>
+    <tr>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="32" alt="Pandas"><br><sub>Pandas</sub></td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="32" alt="NumPy"><br><sub>NumPy</sub></td>
+      <td align="center"><img src="https://avatars.githubusercontent.com/u/215947?s=200&v=4" width="32" alt="Matplotlib"><br><sub>Matplotlib</sub></td>
+      <td align="center"><img src="https://www.r-project.org/logo/Rlogo.svg" width="32" alt="R"><br><sub>R</sub></td>
+    </tr>
+  </table>
+</td>
   </tr>
 </table>
 
@@ -110,7 +139,7 @@ Right now, I’m deepening my skills in Python, .NET, Power BI, and scientific c
     <!-- Herramientas de desarrollo -->
     <td valign="top">
       <h4 align="center">⚙️ Development Tools</h4>
-      <table>
+      <table align="center">
         <tr>
           <td align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="32" alt="Git"><br><sub>Git</sub></td>
           <td align="center"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="32" alt="Postman"><br><sub>Postman</sub></td>
@@ -122,7 +151,7 @@ Right now, I’m deepening my skills in Python, .NET, Power BI, and scientific c
     <!-- Plataformas y UI/UX -->
     <td valign="top">
       <h4 align="center">🎨 UI Design & Cloud Platforms</h4>
-      <table>
+      <table align="center">
         <tr>
           <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="32" alt="Figma"><br><sub>Figma</sub></td>
           <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="32" alt="Firebase"><br><sub>Firebase</sub></td>
@@ -133,7 +162,7 @@ Right now, I’m deepening my skills in Python, .NET, Power BI, and scientific c
     <!-- Runtimes y no-code -->
     <td valign="top">
       <h4 align="center">⚙️ Runtime Environments & No-Code</h4>
-      <table>
+      <table align="center">
         <tr>
           <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="32" alt="Node.js"><br><sub>Node.js</sub></td>
           <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="32" alt="Arduino"><br><sub>Arduino</sub></td>
@@ -173,10 +202,3 @@ Right now, I’m deepening my skills in Python, .NET, Power BI, and scientific c
       <img src="https://github-profile-trophy.vercel.app/?username=andcarrillo&theme=algolia&margin-w=5&rank=SECRET,S,A,B" alt="GitHub Trophies" />
     </a>
   </p>
-
-## 🚀 Highlight Projects
-
-- 🐶 **Digital Pet Record** – Health & care manager for pets using React and Firebase
-- 🛠 **SharePoint Automation** – Extracted permissions and structure using PowerShell
-- 📊 **Dashboard ETL Pipelines** – Data extraction and transformation with Python + Power BI
-
