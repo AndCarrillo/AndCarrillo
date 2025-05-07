@@ -125,7 +125,7 @@ Right now, I’m deepening my skills in Python, .NET, Power BI, and scientific c
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="32" alt="Pandas"><br><sub>Pandas</sub></td>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="32" alt="NumPy"><br><sub>NumPy</sub></td>
       <td align="center"><img src="https://avatars.githubusercontent.com/u/215947?s=200&v=4" width="32" alt="Matplotlib"><br><sub>Matplotlib</sub></td>
-      <td align="center"><img src="https://avatars.githubusercontent.com/u/288277?s=200&v=4" width="32" alt="SciPy"><br><sub>SciPy</sub></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/scipy/scipy/main/doc/source/_static/logo.svg" width="32" alt="SciPy"><br><sub>SciPy</sub></td>
       <td align="center"><img src="https://www.r-project.org/logo/Rlogo.svg" width="32" alt="R"><br><sub>R</sub></td>
     </tr>
   </table>
