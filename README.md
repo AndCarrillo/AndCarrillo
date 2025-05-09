@@ -34,8 +34,7 @@
 ---
 
 <!-- Contador de vistas -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andcarrillo&label=Profile%20views&color=0e75b6&style=flat" alt="andcarrillo" /> 
-  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=andcarrillo&label=Profile%20views&color=0e75b6&style=flat" alt="andcarrillo" />   
 
 Hi there! 👋 I'm Andrea Carrillo, a curious and motivated Information Systems Engineering student.  
 I love building things with code — from data dashboards and backend scripts to cloud-powered apps.  
